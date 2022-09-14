@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "deep-link-demo-app",
+    "slug": "deep-link-demo-app",
+    "owner": "masnasri",
+    "privacy": "hidden",
+    "version": "1.0.0",
+    "scheme": "deep-link-demo-app",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7d3004fb-5af0-420c-af94-06be82caa9e5"
+      }
+    },
+    "android": {
+      "package": "com.masnasri.deeplinkdemoapp"
+    }
+  }
+}
